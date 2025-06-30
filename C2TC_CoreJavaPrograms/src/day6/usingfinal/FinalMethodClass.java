@@ -1,5 +1,5 @@
-package day6.staticblockmethod;
-//class with final method
+package day6.usingfinal;
+
 class FinalMethodClass {
 	// constructor
 	FinalMethodClass() {

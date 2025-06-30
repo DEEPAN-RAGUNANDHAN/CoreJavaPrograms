@@ -1,4 +1,4 @@
-package day6.staticblockmethod;
+package day6.usingfinal;
 public class FinalVariable {
 
 	// final int x; // final instance variable must be initialized
